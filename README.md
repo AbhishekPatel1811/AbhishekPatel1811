@@ -5,8 +5,7 @@ I thrive on transforming innovative ideas into functional and visually captivati
 
 ## 🌐 Find me Online -  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-patel18)  
 
   
 ## 📊 GitHub Stats  
