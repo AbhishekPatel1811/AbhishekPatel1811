@@ -4,12 +4,16 @@
 
 A dedicated **Frontend Engineer** 🚀 , specializing in building seamless, responsive, and engaging web experiences. I thrive on transforming innovative ideas into functional and visually captivating digital solutions using the latest technologies.  
 
-## 🌐 Find me Online -  
-<p align="left">
+## 🌐 Find me Online -
+<div align="left">
   <a href="https://linkedin.com/in/abhishek-patel18">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+  
+  <a href="https://x.com/abhishekPx18">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</div>
 
 ## 🛠️ Languages-Frameworks-Tools  
 <div align="left">
