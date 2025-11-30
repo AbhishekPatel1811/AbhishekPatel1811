@@ -22,11 +22,3 @@ A dedicated **Frontend Engineer** 🚀 , specializing in building seamless, resp
   </a>
 </div>
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPatel1811&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPatel1811&theme=default&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
-</div>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPatel1811&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
