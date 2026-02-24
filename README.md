@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hi+There!;I'm+Abhishek+Patel+💻;Fullstack+Engineer+%7C+AI+Builder+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hi+There!;I'm+Abhishek+Patel+💻;Fullstack+Engineer🚀" alt="Typing Animation" />
 </p>
 
 ## 👨‍💻 About Me
@@ -34,80 +34,32 @@ Focused on building modern SaaS products where clean architecture meets intellig
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-- React.js  
-- Next.js (SSR / SSG)  
-- TypeScript & JavaScript  
-- HTML5 & CSS3  
-- Tailwind CSS  
-- Framer Motion  
-
-
-## 🤖 AI Engineering & Integrations
-<p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-</p>
-
-- OpenAI APIs (Assistants, Threads, Streaming)  
-- RAG Chatbot Development  
-- Embeddings & Vector Search  
-- AI-powered SaaS integrations  
-
-
 ## 🧠 Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,postgres" />
 </p>
-
-- Node.js  
-- Express.js  
-- MongoDB  
-- Supabase  
-- PostgreSQL  
-- ConvexDB  
-- Drizzle ORM  
-- Firebase (Realtime DB & CMS)  
-
 
 ## 📦 Package Management
 <p>
   <img src="https://skillicons.dev/icons?i=npm,pnpm" />
 </p>
 
-- npm  
-- pnpm  
-
-
 ## 🎨 Design & UI/UX
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-- Figma (Prototyping → Implementation)
-
-
 ## ⚙️ Dev Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,slack" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
-
-- Git & GitHub  
-- Vercel (Deployments)  
-- Resend (Email Workflows)  
-- Postman (API Testing)  
-- Slack  
-- CI/CD Review & Branch Management  
 
 ## 🧑‍💻 AI-Assisted IDE & Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
 
 - Cursor (AI-native IDE)  
 - Antigravity IDE  
 - Claude Code extension  
-- Kilo Code extension  
-- AI-assisted code generation & refactoring workflows  
+- Kilo Code extension   
 
 ## 🚀 What I’m Currently Exploring
 
