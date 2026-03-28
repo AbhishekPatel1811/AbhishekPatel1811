@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Fullstack Engineer with 1.5+ years of experience building scalable, AI-powered web applications in startup environments.
+Fullstack Engineer with 1.9+ years of experience building scalable, AI-powered web applications in startup environments.
 
 I work across the stack — crafting responsive frontends with React & Next.js, architecting backend logic with Node.js, and integrating intelligent systems like RAG chatbots, OpenAI APIs, and embeddings-based search.
 
